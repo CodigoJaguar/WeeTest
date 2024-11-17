@@ -1,0 +1,4 @@
+[
+{"Id":1,"Name":"Jose","Email":"JoseCuervo@gmail.com","Phone":"123123","Id_Company":1,"CompanyName":"Walmart"},
+{"Id":2,"Name":"MArio","Email":"Echeverria12@hotmail.com","Phone":"12323323","Id_Company":2,"CompanyName":"Spot"}
+]
